@@ -10,9 +10,8 @@ Originally from Brazil, worked as project manager for more than 4 years. Very ke
 - 🌱 I’m currently learning TDD
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with TDD 
-<br>
 - ⚡ Fun fact: Love surfing and music
-<br>
+<br><br>
 🤝 &nbsp; Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-rossiter-calazans-b0863866/)
@@ -20,7 +19,7 @@ Originally from Brazil, worked as project manager for more than 4 years. Very ke
 <hr>
 
 ## 🛠 &nbsp; Tech Stack
-
+<br><br>
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width=40 />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width=40 /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">
 
 
