@@ -1,6 +1,6 @@
 
 
-Originally from Brazil, worked as project manager for morethan 4 years. Very keen to learn, got in love with programming and decided to do Le Wagon and become a developer. Found myself in it and can't wait to get to work on more projects!
+Originally from Brazil, worked as project manager for more than 4 years. Very keen to learn, got in love with programming and decided to do Le Wagon and become a developer. Found myself in it and can't wait to get to work on more projects!
 
 
 - 🔭 I’m currently working on my programming skills in Rails and JS 
