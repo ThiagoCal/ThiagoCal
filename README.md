@@ -14,7 +14,7 @@ Originally from Brazil, worked as project manager for more than 4 years. Very ke
 <br><br>
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-rossiter-calazans-b0863866/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-rossiter-calazans/)
 
 <hr>
 
