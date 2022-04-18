@@ -7,9 +7,8 @@ Originally from Brazil, worked as project manager for more than 4 years. Very ke
 
 
 - 🔭 I’m currently working on my programming skills in Rails and JS 
-- 🌱 I’m currently learning TDD
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with TDD 
+- 🌱 I’m currently learning React
+ 
 - ⚡ Fun fact: Love surfing and music
 <br><br>
 🤝 &nbsp; Connect with Me
