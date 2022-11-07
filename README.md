@@ -6,8 +6,8 @@
 Oleh Hadash in Israel, originally from Brazil, worked as project manager for more than 4 years. Very keen to learn, got in love with programming and decided to become a developer. Found myself in it and can't wait to get to work on more projects!
 
 - I'm currently working for HortaTech as a fullstack developer
-- 🔭 I’m currently working on my programming skills in Rails and JS 
-- 🌱 I’m currently learning React
+<!-- - 🔭 I’m currently working on my programming skills in Rails and JS 
+- 🌱 I’m currently learning React -->
 
  
 - ⚡ Fun fact: Love surfing and music
