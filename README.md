@@ -3,12 +3,7 @@
  <p/>
 <h1 align="center"> Hi! I'm Thiago <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Oleh Hadash in Israel, originally from Brazil, worked as project manager for more than 5 years. Very keen to learn, got in love with programming and decided to become a developer. Found myself in it and can't wait to get to work on more projects!
-
-- I'm currently working for HortaTech as a fullstack developer
-<!-- - 🔭 I’m currently working on my programming skills in Rails and JS 
-- 🌱 I’m currently learning React -->
-
+I'm a Full-Stack developer, Oleh Hadash in Israel, originally from Brazil. I worked as project manager in a company that install radars for more than 3 years. Very keen to learn, fell in love with programming and decided to become a developer. Found myself in it and can't wait to get to work on more projects!
  
 - ⚡ Fun fact: Love surfing and music
 <br><br>
